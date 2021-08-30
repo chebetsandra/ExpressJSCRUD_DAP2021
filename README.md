@@ -9,3 +9,5 @@ API End Points
     PATCH /api/v1/employees/<employee_id>: update an employee partially
     DELETE /api/v1/employees/<employee_id>: delete an employee
     PUT /api/v1/employees/<employee_id>: update an employee completely
+    
+Test endpoints with POSTMAN
